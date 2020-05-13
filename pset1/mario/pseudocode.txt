@@ -1,0 +1,6 @@
+prompt by asking the user to input the height value
+if the user input is not a positive integer between 1 to 8
+then prompt the user to re-enter value
+when the user entered a valid input
+then print out # according to the value
+
